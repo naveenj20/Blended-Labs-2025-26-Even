@@ -77,6 +77,7 @@ Describe step-by-step how you performed this experiment in your own words.
 
 <img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/ae79f696-fd86-4762-adb8-e47689f511bf" />
 
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/2d74631d-32e3-416d-8f9b-90204c830a73" />
 
 ---
 
